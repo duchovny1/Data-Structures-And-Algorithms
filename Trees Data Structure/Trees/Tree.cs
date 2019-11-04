@@ -38,7 +38,21 @@ public class Tree<T>
 
     public IEnumerable<T> OrderDFS()
     {
-        throw new NotImplementedException();
+        List<T> output = new List<T>();
+
+        this.DFS(this, output);
+
+        return output;
+    }
+
+    private void DFS(Tree<T> node, List<T> output)
+    {
+        foreach (var child in node.Children)
+        {
+            DFS(child, output);
+        }
+
+        output.Add(node.value);
     }
 
     public IEnumerable<T> OrderBFS()
