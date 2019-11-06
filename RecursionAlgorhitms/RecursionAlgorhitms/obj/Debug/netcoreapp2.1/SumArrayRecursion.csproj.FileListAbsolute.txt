@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\bin\Debug\netcoreapp2.1\SumArrayRecursion.deps.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\bin\Debug\netcoreapp2.1\SumArrayRecursion.runtimeconfig.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\bin\Debug\netcoreapp2.1\SumArrayRecursion.runtimeconfig.dev.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\bin\Debug\netcoreapp2.1\SumArrayRecursion.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\bin\Debug\netcoreapp2.1\SumArrayRecursion.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.AssemblyInfo.cs
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursionAlgorhitms\obj\Debug\netcoreapp2.1\SumArrayRecursion.csprojAssemblyReference.cache

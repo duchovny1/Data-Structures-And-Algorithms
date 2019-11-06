@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\bin\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.deps.json
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\bin\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.runtimeconfig.json
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\bin\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.runtimeconfig.dev.json
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\bin\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\bin\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.AssemblyInfo.cs
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\GeneratingVectorsWith0and1\obj\Debug\netcoreapp2.1\GeneratingVectorsWith0and1.pdb

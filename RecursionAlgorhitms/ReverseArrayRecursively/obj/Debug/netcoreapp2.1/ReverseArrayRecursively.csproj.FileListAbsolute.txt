@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\bin\Debug\netcoreapp2.1\ReverseArrayRecursively.deps.json
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\bin\Debug\netcoreapp2.1\ReverseArrayRecursively.runtimeconfig.json
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\bin\Debug\netcoreapp2.1\ReverseArrayRecursively.runtimeconfig.dev.json
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\bin\Debug\netcoreapp2.1\ReverseArrayRecursively.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\bin\Debug\netcoreapp2.1\ReverseArrayRecursively.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.AssemblyInfo.cs
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\ReverseArrayRecursively\obj\Debug\netcoreapp2.1\ReverseArrayRecursively.csprojAssemblyReference.cache

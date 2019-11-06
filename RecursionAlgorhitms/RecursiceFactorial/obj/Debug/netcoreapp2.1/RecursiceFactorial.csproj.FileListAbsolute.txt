@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\bin\Debug\netcoreapp2.1\RecursiceFactorial.deps.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\bin\Debug\netcoreapp2.1\RecursiceFactorial.runtimeconfig.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\bin\Debug\netcoreapp2.1\RecursiceFactorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\bin\Debug\netcoreapp2.1\RecursiceFactorial.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\bin\Debug\netcoreapp2.1\RecursiceFactorial.pdb
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.AssemblyInfo.cs
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.dll
+C:\Users\User\source\repos\RecursionAlgorhitms\RecursiceFactorial\obj\Debug\netcoreapp2.1\RecursiceFactorial.pdb
