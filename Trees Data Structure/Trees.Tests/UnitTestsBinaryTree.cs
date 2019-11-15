@@ -4,6 +4,7 @@ using System.IO;
 using System.Text;
 
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using TreeData;
 
 [TestClass]
 public class UnitTestsBinaryTree
@@ -23,7 +24,7 @@ public class UnitTestsBinaryTree
 
         // Act
         var nodes = new List<string>();
-        binaryTree.EachInOrder(nodes.Add);
+        binaryTree.EachInOrder(binaryTree, nodes.Add);
 
         // Assert
         var expectedNodes = new string[] { "3", "+", "2", "*", "9", "-", "6" };
@@ -45,7 +46,7 @@ public class UnitTestsBinaryTree
 
         // Act
         var nodes = new List<string>();
-        binaryTree.EachPostOrder(nodes.Add);
+        binaryTree.EachPostOrder(binaryTree,nodes.Add);
 
         // Assert
         var expectedNodes = new string[] { "3", "2", "+", "9", "6", "-", "*" };
@@ -72,7 +73,7 @@ public class UnitTestsBinaryTree
         using (var outputWriter = new StreamWriter(outputStream))
         {
             Console.SetOut(outputWriter);
-            binaryTree.PrintIndentedPreOrder();
+            binaryTree.PrintIndentedPreOrder(binaryTree);
         }
         var output = Encoding.UTF8.GetString(outputStream.ToArray());
 

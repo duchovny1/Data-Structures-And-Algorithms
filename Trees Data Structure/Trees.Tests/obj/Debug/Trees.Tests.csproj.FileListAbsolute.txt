@@ -1,11 +1,11 @@
+C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Trees.exe
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Trees.pdb
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\bin\Debug\Trees.exe.config
-C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CopyComplete
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
 C:\Users\User\source\repos\Tree Data Structures\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb
