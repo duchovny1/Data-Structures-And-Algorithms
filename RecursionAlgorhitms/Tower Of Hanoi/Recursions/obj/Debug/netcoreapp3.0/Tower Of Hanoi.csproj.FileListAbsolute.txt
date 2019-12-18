@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.exe
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.deps.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.runtimeconfig.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.dll
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Tower Of Hanoi.pdb
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Tower Of Hanoi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Tower Of Hanoi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Tower Of Hanoi.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Tower Of Hanoi.dll
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Tower Of Hanoi.pdb

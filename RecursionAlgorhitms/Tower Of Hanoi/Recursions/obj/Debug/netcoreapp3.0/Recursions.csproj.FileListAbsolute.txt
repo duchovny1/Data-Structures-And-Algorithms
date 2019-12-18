@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.exe
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.deps.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.runtimeconfig.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.runtimeconfig.dev.json
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.dll
+C:\Users\User\source\repos\Recursions\Recursions\bin\Debug\netcoreapp3.0\Recursions.pdb
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Recursions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Recursions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Recursions.AssemblyInfo.cs
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Recursions.dll
+C:\Users\User\source\repos\Recursions\Recursions\obj\Debug\netcoreapp3.0\Recursions.pdb
