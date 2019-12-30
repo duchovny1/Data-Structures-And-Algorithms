@@ -1,0 +1,11 @@
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.exe
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.deps.json
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.runtimeconfig.json
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.runtimeconfig.dev.json
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.dll
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\bin\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.pdb
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\obj\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.csprojAssemblyReference.cache
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\obj\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.AssemblyInfoInputs.cache
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\obj\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.AssemblyInfo.cs
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\obj\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.dll
+C:\Data-Structures-And-Algorithms\SortingAndSearchingAlgorhitms\SortingAndSearchingAlgorhitms\obj\Debug\netcoreapp3.1\SortingAndSearchingAlgorhitms.pdb
