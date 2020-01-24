@@ -1,0 +1,11 @@
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.exe
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.deps.json
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.runtimeconfig.json
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.runtimeconfig.dev.json
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.dll
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\bin\Debug\netcoreapp3.1\Trees Data Structure Exercise.pdb
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\obj\Debug\netcoreapp3.1\Trees Data Structure Exercise.csprojAssemblyReference.cache
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\obj\Debug\netcoreapp3.1\Trees Data Structure Exercise.AssemblyInfoInputs.cache
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\obj\Debug\netcoreapp3.1\Trees Data Structure Exercise.AssemblyInfo.cs
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\obj\Debug\netcoreapp3.1\Trees Data Structure Exercise.dll
+C:\Users\rptlonfire\source\repos\Trees Data Structure Exercise\Trees Data Structure Exercise\obj\Debug\netcoreapp3.1\Trees Data Structure Exercise.pdb
