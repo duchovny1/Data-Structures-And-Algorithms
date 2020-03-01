@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj": {}
+    "C:\\Users\\rptlonfire\\Desktop\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj": {}
   },
   "projects": {
-    "C:\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj": {
+    "C:\\Users\\rptlonfire\\Desktop\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj",
+        "projectUniqueName": "C:\\Users\\rptlonfire\\Desktop\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj",
         "projectName": "SortingAndSearchingAlgorhitms",
-        "projectPath": "C:\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\obj\\",
+        "projectPath": "C:\\Users\\rptlonfire\\Desktop\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms.csproj",
+        "packagesPath": "C:\\Users\\rptlonfire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rptlonfire\\Desktop\\Data-Structures-And-Algorithms\\SortingAndSearchingAlgorhitms\\SortingAndSearchingAlgorhitms\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rptlonfire\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

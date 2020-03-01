@@ -6,9 +6,21 @@ namespace SortingAndSearchingAlgorhitms
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] { 38, 27, 43, 3, 9, 82, 10 };
+            //int[] arr = new int[] { 38, 27, 43, 3, 9, 82, 10 };
 
-            Sort(arr, 0, arr.Length - 1);
+            //Sort(arr, 0, arr.Length - 1);
+
+
+            var sort = new InsertionSort();
+            var sortedArray = sort.Sort(new int[] { 5, 2, 4, 6, 1, 3});
+            var sortedArray1 = sort.Sort(new int[] { 3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48 });
+            var sortedArray2 = sort.Sort(new int[] { 17, 201, 38, 51, 47, 19, 24, 23, 27, 1, 0, 255, 1, 2, 1});
+
+            Console.WriteLine(string.Join(" ", sortedArray));
+            Console.WriteLine(string.Join(" ", sortedArray1));
+            Console.WriteLine(string.Join(" ", sortedArray2));
+
+
             ;
         }
 
