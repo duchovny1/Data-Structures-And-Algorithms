@@ -19,8 +19,6 @@ namespace SortingAndSearchingAlgorhitms
             Console.WriteLine(string.Join(" ", sortedArray));
             Console.WriteLine(string.Join(" ", sortedArray1));
             Console.WriteLine(string.Join(" ", sortedArray2));
-
-
             ;
         }
 
