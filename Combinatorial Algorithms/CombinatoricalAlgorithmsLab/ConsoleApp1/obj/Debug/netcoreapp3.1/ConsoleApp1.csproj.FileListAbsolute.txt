@@ -1,0 +1,11 @@
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
