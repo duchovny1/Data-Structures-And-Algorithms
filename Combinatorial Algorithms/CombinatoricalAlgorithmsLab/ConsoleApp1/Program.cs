@@ -16,7 +16,7 @@ namespace ConsoleApp1
             permute = new string[elements.Length];
 
 
-            Permute(0);
+            PermuteWithReps(0);
         }
 
         static void Permute(int index)
@@ -39,6 +39,35 @@ namespace ConsoleApp1
                 }
                 
             }
+        }
+
+        //Optimize permutations 
+        static void SwapPermute(int index)
+        {
+            if (index >= elements.Length)
+            {
+                Console.WriteLine(String.Join(" ", elements));
+            }
+            else
+            {
+                SwapPermute(index + 1);
+                for (int i = index + i; i < elements.Length; i++)
+                {
+                    if (!used[i])
+                    {
+                        Swap(index, i);
+                        SwapPermute(index + 1);
+                        Swap(index, i);
+                    }
+                }
+            }
+        }
+
+        private static void Swap(int first, int second)
+        {
+            var temp = elements[first];
+            elements[first] = elements[second];
+            elements[second] = temp;
         }
     }
 }
