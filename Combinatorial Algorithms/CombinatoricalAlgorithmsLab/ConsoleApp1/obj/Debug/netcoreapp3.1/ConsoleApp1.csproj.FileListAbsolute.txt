@@ -9,3 +9,5 @@ C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\Comb
 C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
 C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Repositories\SIS\Data-Structures-And-Algorithms\Combinatorial Algorithms\CombinatoricalAlgorithmsLab\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -2,26 +2,26 @@
 using System.Linq;
 
 namespace ConsoleApp1
-{  
+{
     public class Program
     {
-        static string[] elements;
+        static int[] elements;
         static bool[] used;
-        static string[] permute;
+        static int[] permute;
 
         static void Main(string[] args)
         {
-            elements = Console.ReadLine().Split(" ").ToArray();
+            elements = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
             used = new bool[elements.Length];
-            permute = new string[elements.Length];
+            permute = new int[elements.Length];
 
 
-            PermuteWithReps(0);
+            PermuteWithRepetions(elements, 0, elements.Length - 1);
         }
 
         static void Permute(int index)
         {
-            if(index >= elements.Length)
+            if (index >= elements.Length)
             {
                 Console.WriteLine(string.Join(" ", permute));
             }
@@ -37,7 +37,7 @@ namespace ConsoleApp1
                         used[i] = false;
                     }
                 }
-                
+
             }
         }
 
@@ -51,7 +51,7 @@ namespace ConsoleApp1
             else
             {
                 SwapPermute(index + 1);
-                for (int i = index + i; i < elements.Length; i++)
+                for (int i = index + 1; i < elements.Length; i++)
                 {
                     if (!used[i])
                     {
@@ -63,11 +63,37 @@ namespace ConsoleApp1
             }
         }
 
-        private static void Swap(int first, int second)
+        static void Swap(int first, int second)
         {
             var temp = elements[first];
             elements[first] = elements[second];
             elements[second] = temp;
         }
+
+        static void PermuteWithRepetions(int[] arr, int start, int end)
+        {
+            Console.WriteLine(string.Join(" ", elements));
+            for (int left = end - 1; left >= start; left--)
+            {
+                for (int right = left + 1; right <= end; right++)
+                {
+                    if(arr[left] != arr[right])
+                    {
+                        Swap(left, right);
+                        PermuteWithRepetions(arr, left + 1, end);
+                    }
+                }
+                var firstEl = arr[left];
+                for (int i = left; i <= end - 1; i++)
+                {
+                    arr[i] = arr[i + 1];
+                }
+
+                arr[end] = firstEl;
+            }
+
+        }
+
+
     }
 }
