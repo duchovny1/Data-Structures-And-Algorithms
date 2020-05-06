@@ -1,0 +1,7 @@
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\bin\Debug\SumOfCoins.exe
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\bin\Debug\SumOfCoins.pdb
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\obj\Debug\SumOfCoins.exe
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SumOfCoins\obj\Debug\SumOfCoins.pdb
