@@ -30,7 +30,32 @@
         public static List<int[]> ChooseSets(IList<int[]> sets, IList<int> universe)
         {
             // TODO
-            throw new NotImplementedException();
+
+            var setsHash = new HashSet<int[]>(sets);
+
+            var universeHash = new HashSet<int>(universe);
+
+            List<int[]> result = new List<int[]>();
+
+            while (universeHash.Count > 0)
+            {
+                int[] currentSet = setsHash
+                    .OrderByDescending(x => x.Count(el
+                       => universeHash.Contains(el)))
+                    .First();
+
+                result.Add(currentSet);
+                setsHash.Remove(currentSet);
+
+                foreach (var number in currentSet)
+                {
+                    universeHash.Remove(number);
+                }
+
+            }
+
+
+            return result;
         }
     }
 }

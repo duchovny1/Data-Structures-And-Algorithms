@@ -1,0 +1,11 @@
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\SetCover.exe
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\SetCover.pdb
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\bin\Debug\SetCover.exe.config
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csprojAssemblyReference.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CopyComplete
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover.Tests\obj\Debug\SetCover.Tests.pdb

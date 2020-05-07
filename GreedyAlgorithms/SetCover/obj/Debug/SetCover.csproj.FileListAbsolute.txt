@@ -1,0 +1,7 @@
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\bin\Debug\SetCover.exe.config
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\bin\Debug\SetCover.exe
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\bin\Debug\SetCover.pdb
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\obj\Debug\SetCover.exe
+C:\Users\rptlonfire\Desktop\Data-Structures-And-Algorithms\GreedyAlgorithms\SetCover\obj\Debug\SetCover.pdb
